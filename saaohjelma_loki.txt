@@ -1,0 +1,65 @@
+...
+Sääohjelma käynnistetty 2020-08-18 10:28:10.467508
+
+Tallennetut paikkakunnat: 
+Ei tallennettuja paikkakuntia.
+
+Uudet paikkakunnat määritelty. 2 uutta paikkakuntaa lisätty:
+Helsinki - Säätiedot löytyvät.
+Espoo - Säätiedot löytyvät.
+
+2 paikkakunnan lämpötilat haettu onnistuneesti.
+
+Ohjelman ajo lopetettu 2020-08-18 10:28:21.731458
+......
+Sääohjelma käynnistetty 2020-08-18 10:28:25.634566
+
+Tallennetut paikkakunnat: 
+Helsinki
+Espoo
+
+Uudet paikkakunnat määritelty. 3 uutta paikkakuntaa lisätty:
+Janakkala - Säätiedot löytyvät.
+Tampere - Säätiedot löytyvät.
+Keemi - Hakuvirhe: Säätietoja ei löydy.
+
+2 paikkakunnan lämpötilat haettu onnistuneesti.
+1 paikkakunnan säätietoja ei löytynyt.
+
+Ohjelman ajo lopetettu 2020-08-18 10:28:46.138451
+......
+Sääohjelma käynnistetty 2020-08-18 10:28:49.791449
+
+Tallennetut paikkakunnat: 
+Janakkala
+Tampere
+Keemi
+
+Ohjelman ajo lopetettu: 2020-08-18 10:28:52.433452
+......
+Sääohjelma käynnistetty 2020-11-13 08:45:14.188128
+
+Tallennetut paikkakunnat: 
+Janakkala
+Tampere
+Keemi
+
+Ohjelman ajo lopetettu: 2020-11-13 08:45:19.962041
+......
+Sääohjelma käynnistetty 2020-11-13 08:45:56.430125
+
+Tallennetut paikkakunnat: 
+Janakkala
+Tampere
+Keemi
+
+Uudet paikkakunnat määritelty. 3 uutta paikkakuntaa lisätty:
+Helsinki - Säätiedot löytyvät.
+Kilpisjärvi - Hakuvirhe: Säätietoja ei löydy.
+Oulu - Säätiedot löytyvät.
+
+2 paikkakunnan lämpötilat haettu onnistuneesti.
+1 paikkakunnan säätietoja ei löytynyt.
+
+Ohjelman ajo lopetettu 2020-11-13 08:46:32.489045
+...
